@@ -1,6 +1,6 @@
 # vue_calendar
 
-![image](https://raw.githubusercontent.com/bondrogeen/vue_calendar/main/images/screen_1.png)
+![image](https://raw.githubusercontent.com/bondrogeen/vue_calendar/main/images/screen1.png)
 
 
 ## Project setup
